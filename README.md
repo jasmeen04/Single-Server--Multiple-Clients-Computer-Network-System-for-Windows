@@ -26,7 +26,7 @@ No additional Python packages are required beyond the standard library.
 **server.py**: Contains the server implementation.
 **client.py**: Example client script to connect and interact with the server.
 
-# README.md: 
+# README.md
 This file, providing an overview of the project, setup instructions, and usage guidelines.
 
 # Contributing
